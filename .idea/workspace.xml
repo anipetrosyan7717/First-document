@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="842fc947-452b-442c-aca2-b0613c4e0d8d" name="Default Changelist" comment="" />
+    <list default="true" id="ea73f109-548d-400a-9814-04d78c714109" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="2EiSzQLZuUvrdQCzxRhbOyjZV3m" />
+  <component name="ProjectId" id="2Eic7IrhzFbB1GIY62uaB13b1qe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,18 +15,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="842fc947-452b-442c-aca2-b0613c4e0d8d" name="Default Changelist" comment="" />
-      <created>1663077175095</created>
+      <changelist id="ea73f109-548d-400a-9814-04d78c714109" name="Default Changelist" comment="" />
+      <created>1663081677611</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663077175095</updated>
-      <workItem from="1663077176844" duration="681000" />
+      <updated>1663081677611</updated>
+      <workItem from="1663081678846" duration="185000" />
     </task>
     <servers />
   </component>
